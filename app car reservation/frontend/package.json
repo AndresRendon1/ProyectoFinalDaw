@@ -1,0 +1,28 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Car app Reservation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresRendon1/ProyectoFinalDaw.git"
+  },
+  "keywords": [
+    "car",
+    "app",
+    "reservation"
+  ],
+  "author": "Andres Rendon V",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AndresRendon1/ProyectoFinalDaw/issues"
+  },
+  "homepage": "https://github.com/AndresRendon1/ProyectoFinalDaw#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3"
+  }
+}
